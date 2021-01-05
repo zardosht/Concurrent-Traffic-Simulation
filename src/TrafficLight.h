@@ -36,8 +36,8 @@ private:
 
 
 enum TrafficLightPhase {
-    red = 0, 
-    green = 1
+    red, 
+    green
 };
 
 
